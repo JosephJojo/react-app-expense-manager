@@ -1,0 +1,10 @@
+{
+    "workbench.editor.openSideBySideDirection": "right",
+    "emmet.preferences": {
+
+    
+    },
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+    }
+}
